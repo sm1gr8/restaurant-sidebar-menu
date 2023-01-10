@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restaurant-sidebar-menu/static/css/main.d2cc7041.css",
+    "main.js": "/restaurant-sidebar-menu/static/js/main.d3224b6a.js",
+    "index.html": "/restaurant-sidebar-menu/index.html",
+    "main.d2cc7041.css.map": "/restaurant-sidebar-menu/static/css/main.d2cc7041.css.map",
+    "main.d3224b6a.js.map": "/restaurant-sidebar-menu/static/js/main.d3224b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2cc7041.css",
+    "static/js/main.d3224b6a.js"
+  ]
+}
